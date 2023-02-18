@@ -116,7 +116,7 @@ nav {
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    background-color: #c26a06;
+    background-color: #080400;
     border-radius: 50%;
     width: 75px;
     height: 75px;
@@ -143,7 +143,7 @@ nav {
     -webkit-transition: all 600ms;
 }
 #one {
-    background-color: #e7b044;
+    background-color: #fbfbfb;
 }
 #one svg {
     width: 40px;
@@ -159,7 +159,7 @@ nav {
     transform: translateY(-50%);
 }
 #two {
-    background-color: #f3cc61;
+    background-color: #fbfbfb;
 }
 #two svg {
     width: 40px;
@@ -175,7 +175,7 @@ nav {
     transform: translateX(-50%);
 }
 #three {
-    background-color: #efc634;
+    background-color: #fbfbfb;
 }
 #three svg {
     width: 40px;
@@ -191,7 +191,7 @@ nav {
     transform: translateY(-50%);
 }
 #four {
-    background-color: #f49231;
+    background-color: #fbfbfb;
 }
 #four svg {
     width: 40px;
@@ -214,7 +214,7 @@ section {
 .start {
     top: 0;
     left: 0;
-    background-color: #021e48;
+    background-color: #06accd;
     text-align: center;
 }
 figcaption{
@@ -225,7 +225,7 @@ figcaption{
     display: flexbox;
     left: 100vw;
     top: 0;
-    background-color: #0e2241;
+    background-color: #06accd;
 }
 .content.pag1.img{
     width: 40%;
@@ -234,17 +234,17 @@ figcaption{
 .second {
     left: 0;
     top: 100vh;
-    background-color: #0e2241;
+    background-color: #06accd;
 }
 .third {
     left: -100vw;
     top: 0;
-    background-color: #0e2241;
+    background-color: #06accd;
 }
 .fourth {
     left: 0;
     top: -100vh;
-    background-color: #0e2241;
+    background-color: #06accd;
 }
 section:first-child.content {
     width: 100%;
